@@ -1,0 +1,125 @@
+{
+  "apiVersion": 1,
+  "sources": [
+    {
+      "id": "official.bilibili",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/bilibili.js",
+      "sha256": "8103fd423fc1579a023fe6e1fd9e47724a6490ea72852a1271e0ada0adcad10e"
+    },
+    {
+      "id": "official.coolapk",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/coolapk.js",
+      "sha256": "2483bc1a869aa4dacf7a0751f247d27731cccb20022506e70b38e10548c94e1a"
+    },
+    {
+      "id": "official.douban",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/douban.js",
+      "sha256": "e32076b22b65fc4049554ca9aaf62e5a39e67857dde493d6e6f4da9b72cef630"
+    },
+    {
+      "id": "official.douyin",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/douyin.js",
+      "sha256": "39a8c938c417268a124120dd2774fbafd79b09d1e3edefe1df67344781b743d9"
+    },
+    {
+      "id": "official.facebook",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/facebook.js",
+      "sha256": "bce1c5c51fd94fbcf1f24be7a69b908ad39130088b42234c9b2b816550880a1a"
+    },
+    {
+      "id": "official.instagram",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/instagram.js",
+      "sha256": "5e9ecb1d6d50eeb8c0bb8941bf19362105b3295a110f27afa27635de4e40a2d3"
+    },
+    {
+      "id": "official.kuaishou",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/kuaishou.js",
+      "sha256": "2bf7692efa902cf8b9af56a32efa28106a8e13e70818a40e06f91e6bb1dc8b13"
+    },
+    {
+      "id": "official.pipix",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/pipix.js",
+      "sha256": "1ebd5b58cfdff11a5f2d3c82e65b6c53f134cdcf3e808a7984beb1d4b6babb40"
+    },
+    {
+      "id": "official.snapchat",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/snapchat.js",
+      "sha256": "36739201c7303c12ce8c716231284d3313d4fcab628e142456c601405a86f168"
+    },
+    {
+      "id": "official.threads",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/threads.js",
+      "sha256": "43fce6d64e62551d3337bb57249a44730881290cc6bf80ccc86b83fc4a56490a"
+    },
+    {
+      "id": "official.tieba",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/tieba.js",
+      "sha256": "608bf155dc146f88e8786226cde73e9c586d58d5c2ee6187417f4ad895d765ae"
+    },
+    {
+      "id": "official.tiktok",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/tiktok.js",
+      "sha256": "8fc1d84fb729d707341fd2a31bc20df9d22fb635be7bd48f668199e844fca9f7"
+    },
+    {
+      "id": "official.twitter",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/twitter.js",
+      "sha256": "5250fe2112f79a678841c57977b628f077bf550891fb5b042707d38da260791d"
+    },
+    {
+      "id": "official.weibo",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/weibo.js",
+      "sha256": "3ca6defd094e87573731ebfb317b9ecb68b92cced71a3de6d2a6184d185142d5"
+    },
+    {
+      "id": "official.weixin",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/weixin.js",
+      "sha256": "860e312f8a445c5c3c706d7c86018658864d586e6801db1b58bca1b5ef7cc5ee"
+    },
+    {
+      "id": "official.xhs",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/xhs.js",
+      "sha256": "04cd3a329fda6b95c1db14826014dc7ff967ddb9367c4e659216ef79f463eef4"
+    },
+    {
+      "id": "official.xiaoheihe",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/xiaoheihe.js",
+      "sha256": "9976dba46c63e3478cec8987748a8186e90fda9dccbeb0c6ad38cf22a3021b0a"
+    },
+    {
+      "id": "official.youtube",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/youtube.js",
+      "sha256": "6222e50e9785edc3d3e79ef1cfcc0a9c3e60f89447097f62fc1b02b3e76a4b8f"
+    },
+    {
+      "id": "official.zhihu",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/zhihu.js",
+      "sha256": "a2993d611586dd3ca1ae38c1c8c7cb297e10db5805b624fb2f9d8d42d0ffe419"
+    },
+    {
+      "id": "official.zuiyou",
+      "version": "1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/eliovenn/social-parser-sources@v1.0.0/dist/zuiyou.js",
+      "sha256": "f2a217a6cd340e22a9f08d132274fe664957c739ecef14dcbd8d97a64571f7be"
+    }
+  ]
+}

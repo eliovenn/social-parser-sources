@@ -1,0 +1,18 @@
+{
+  "id": "official.weixin",
+  "platformId": "weixin",
+  "name": "微信公众号",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "mp.weixin.qq.com"
+  ],
+  "pathPatterns": [],
+  "cookieDomains": [
+    "mp.weixin.qq.com"
+  ],
+  "mediaTypes": [
+    "image",
+    "video"
+  ]
+}

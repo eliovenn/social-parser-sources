@@ -1,0 +1,21 @@
+{
+  "id": "official.youtube",
+  "platformId": "youtube",
+  "name": "YouTube",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "youtube.com",
+    "youtu.be"
+  ],
+  "pathPatterns": [
+    "^/(?:watch|shorts/.*|embed/.*|[\\w-]{11})$"
+  ],
+  "cookieDomains": [
+    "youtube.com"
+  ],
+  "mediaTypes": [
+    "image",
+    "video"
+  ]
+}

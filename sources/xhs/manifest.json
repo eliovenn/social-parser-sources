@@ -1,0 +1,21 @@
+{
+  "id": "official.xhs",
+  "platformId": "xhs",
+  "name": "小红书",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "xiaohongshu.com",
+    "xhslink.com",
+    "xhslink.cn"
+  ],
+  "pathPatterns": [],
+  "cookieDomains": [
+    "xiaohongshu.com"
+  ],
+  "mediaTypes": [
+    "image",
+    "video",
+    "livePhoto"
+  ]
+}

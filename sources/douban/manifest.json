@@ -1,0 +1,19 @@
+{
+  "id": "official.douban",
+  "platformId": "douban",
+  "name": "豆瓣",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "douban.com",
+    "douc.cc"
+  ],
+  "pathPatterns": [],
+  "cookieDomains": [
+    "douban.com"
+  ],
+  "mediaTypes": [
+    "image",
+    "video"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "official.twitter",
+  "platformId": "twitter",
+  "name": "X / Twitter",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "x.com",
+    "twitter.com",
+    "fixupx.com"
+  ],
+  "pathPatterns": [],
+  "cookieDomains": [
+    "x.com",
+    "twitter.com",
+    "fixupx.com"
+  ],
+  "mediaTypes": [
+    "image",
+    "video"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "official.weibo",
+  "platformId": "weibo",
+  "name": "微博",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "weibo.com",
+    "weibo.cn"
+  ],
+  "pathPatterns": [],
+  "cookieDomains": [
+    "weibo.com",
+    "weibo.cn"
+  ],
+  "mediaTypes": [
+    "image",
+    "video",
+    "livePhoto"
+  ]
+}

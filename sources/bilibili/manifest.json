@@ -1,0 +1,29 @@
+{
+  "id": "official.bilibili",
+  "platformId": "bilibili",
+  "name": "Bilibili",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "bilibili.com",
+    "b23.tv",
+    "bili2233.cn"
+  ],
+  "pathPatterns": [
+    "^/(?:video/|opus/|\\d{10,}|[A-Za-z0-9]+/?$)"
+  ],
+  "cookieDomains": [
+    "bilibili.com"
+  ],
+  "mediaTypes": [
+    "image",
+    "video",
+    "livePhoto"
+  ],
+  "inputRules": [
+    {
+      "pattern": "^(BV[0-9A-Za-z]+)$",
+      "url": "https://www.bilibili.com/video/$1"
+    }
+  ]
+}

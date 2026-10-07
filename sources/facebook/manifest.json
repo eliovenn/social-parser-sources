@@ -1,0 +1,20 @@
+{
+  "id": "official.facebook",
+  "platformId": "facebook",
+  "name": "Facebook",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "facebook.com"
+  ],
+  "pathPatterns": [
+    "/(?:videos|watch|share|reel)(?:/|$)"
+  ],
+  "cookieDomains": [
+    "facebook.com"
+  ],
+  "mediaTypes": [
+    "image",
+    "video"
+  ]
+}

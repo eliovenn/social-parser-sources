@@ -1,0 +1,22 @@
+{
+  "id": "official.tiktok",
+  "platformId": "tiktok",
+  "name": "TikTok",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "tiktok.com"
+  ],
+  "pathPatterns": [],
+  "requestDomains": [
+    "tiktok.com",
+    "tiktokv.com"
+  ],
+  "cookieDomains": [
+    "tiktok.com"
+  ],
+  "mediaTypes": [
+    "image",
+    "video"
+  ]
+}

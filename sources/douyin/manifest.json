@@ -1,0 +1,21 @@
+{
+  "id": "official.douyin",
+  "platformId": "douyin",
+  "name": "抖音",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "douyin.com",
+    "iesdouyin.com"
+  ],
+  "pathPatterns": [],
+  "cookieDomains": [
+    "douyin.com",
+    "iesdouyin.com"
+  ],
+  "mediaTypes": [
+    "image",
+    "video",
+    "livePhoto"
+  ]
+}

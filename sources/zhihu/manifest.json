@@ -1,0 +1,19 @@
+{
+  "id": "official.zhihu",
+  "platformId": "zhihu",
+  "name": "知乎",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "domains": [
+    "zhihu.com",
+    "zhihu.link"
+  ],
+  "pathPatterns": [],
+  "cookieDomains": [
+    "zhihu.com"
+  ],
+  "mediaTypes": [
+    "image",
+    "video"
+  ]
+}
